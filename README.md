@@ -1,4 +1,3 @@
-redirect
-========
+# 301 Moved Permanently
 
-How to point your clones at the new location
+    git config -l | grep remote | grep aniero | sed s/aniero/zerowidth/ | sed 's/=/ /' | xargs git config
