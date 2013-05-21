@@ -1,3 +1,3 @@
 # 301 Moved Permanently
 
-    git config -l | grep remote | grep aniero | sed s/aniero/zerowidth/ | sed 's/=/ /' | xargs git config
+    git config -l | grep remote | grep jllord | sed s/jllord/jlord/ | sed 's/=/ /' | xargs git config
